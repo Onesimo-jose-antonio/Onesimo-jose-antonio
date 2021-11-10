@@ -1,7 +1,7 @@
 ### Hi there, I am Onésimo José C. António 👋
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/neo_antonio67/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/neo_antonio67)
 
 ![Onésimo  GitHub stats](https://github-readme-stats.vercel.app/api?username=Onesimo-jose-antonio&show_icons=true&theme=radical)
 
